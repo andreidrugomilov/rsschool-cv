@@ -19,5 +19,5 @@
 
 ## **Languages**
 ### *English - C2 Proficient* according to [EFset](https://www.efset.org/) ![cert](https://www.efset.org/cert/AL5EBA)
-### *Belarussian* - native
+### *Belarussian* - intermediate
 ### *Russian* - native
