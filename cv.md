@@ -4,7 +4,6 @@
 
 #### Phone +375296666826
 #### e-mail drugomilov@bk.ru
-#### email info@sky-net.by
 #### Github [Andrei Druhamalau](https://github.com/andreidrugomilov/)  
 
 ## **About me**
