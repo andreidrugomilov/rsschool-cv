@@ -18,6 +18,6 @@
 ### p.s. previous chapter)
 
 ## **Languages**
-### *English - C2 Proficient* according to [EFset](https://www.efset.org/) ![cert](https://www.efset.org/cert/AL5EBA)
-### *Belarussian* - intermediate
+### *English - C2 Proficient* according to [EFset](https://www.efset.org/)
+### *Belarussian* - native
 ### *Russian* - native
